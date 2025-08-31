@@ -44,11 +44,13 @@ current_focus:
 
 ## 🛠️ Security Arsenal
 
-### 🔍 **Threat Detection & Analysis**
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+### 🔍 **Advanced Threat Detection & Analysis**
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike_Falcon-E01E24?style=for-the-badge&logoColor=white)
+![Carbon Black](https://img.shields.io/badge/Carbon_Black-000000?style=for-the-badge&logoColor=white)
+![FireEye](https://img.shields.io/badge/FireEye_HX-FF6600?style=for-the-badge&logoColor=white)
+![Mandiant](https://img.shields.io/badge/Mandiant-FF4500?style=for-the-badge&logoColor=white)
+![Zeek](https://img.shields.io/badge/Zeek_NSM-4B9CD3?style=for-the-badge&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata_IDS-FF7F00?style=for-the-badge&logoColor=white)
 
 ### ☁️ **Cloud Platforms**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -154,6 +156,6 @@ current_focus:
   
   **🔐 Securing the digital world, one threat at a time 🔐**
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achuth07&theme=react-dark&hide_border=true&area=true" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Achuth07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Last%20Year%20Contributions" width="100%">
   
 </div>
