@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Professional+%7C+4%2B+Years+Experience;SOC+Analyst+%E2%80%A2+Threat+Hunter+%E2%80%A2+DFIR+Specialist;Cloud+Security+%E2%80%A2+Zero+Trust+Architecture;SIEM%2FSOAR+Expert+%E2%80%A2+Splunk+%E2%80%A2+QRadar;Vulnerability+Management+%E2%80%A2+Penetration+Testing;AWS+%E2%80%A2+Azure+%E2%80%A2+GCP+Security;Python+%E2%80%A2+PowerShell+%E2%80%A2+Bash+Automation;Securing+the+Digital+World+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Professional+%7C+4%2B+Yrs+Experience;SOC+Analyst+%E2%80%A2+Threat+Hunter+%E2%80%A2+DFIR+Specialist;Cloud+Security+%E2%80%A2+Zero+Trust+Architecture;SIEM%2FSOAR+Expert+%E2%80%A2+Splunk+%E2%80%A2+QRadar;Vulnerability+Management+%E2%80%A2+Penetration+Testing;AWS+%E2%80%A2+Azure+%E2%80%A2+GCP+Security;Python+%E2%80%A2+PowerShell+%E2%80%A2+Bash+Automation;Securing+the+Digital+World+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Achuth07&color=brightgreen&style=flat-square&label=Profile+Views)
 
@@ -145,8 +145,5 @@ current_focus:
 
 <div align="center">
   
-  **🔐 Securing the digital world, one threat at a time 🔐**
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Achuth07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Last%20Year%20Contributions" width="100%">
-  
+  **🔐 Securing the digital world, one threat at a time 🔐** 
 </div>
