@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Security+Engineer;SOC+Analyst+%7C+Threat+Hunter+%7C+DFIR;Cloud+Security+%7C+Zero+Trust)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Professional+%7C+4%2B+Years+Experience;SOC+Analyst+%E2%80%A2+Threat+Hunter+%E2%80%A2+DFIR+Specialist;Cloud+Security+%E2%80%A2+Zero+Trust+Architecture;SIEM%2FSOAR+Expert+%E2%80%A2+Splunk+%E2%80%A2+QRadar;Vulnerability+Management+%E2%80%A2+Penetration+Testing;AWS+%E2%80%A2+Azure+%E2%80%A2+GCP+Security;Python+%E2%80%A2+PowerShell+%E2%80%A2+Bash+Automation;Securing+the+Digital+World+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Achuth07&color=brightgreen&style=flat-square&label=Profile+Views)
 
@@ -50,22 +50,48 @@ current_focus:
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 
-### ☁️ **Cloud Security**
+### ☁️ **Cloud Platforms**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-### 💻 **Programming & Scripting**
+### 💻 **Programming & Scripting Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Splunk SPL](https://img.shields.io/badge/Splunk_SPL-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
-### 🔐 **Security Frameworks**
-![NIST](https://img.shields.io/badge/NIST-000080?style=for-the-badge&logoColor=white)
+### 🔐 **Security Frameworks & Standards**
+![NIST](https://img.shields.io/badge/NIST_Framework-000080?style=for-the-badge&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-0052CC?style=for-the-badge&logoColor=white)
+![PCI-DSS](https://img.shields.io/badge/PCI--DSS-FF6B35?style=for-the-badge&logoColor=white)
+
+### 🔍 **Vulnerability Management**
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logoColor=white)
+![Qualys](https://img.shields.io/badge/Qualys-FF6600?style=for-the-badge&logoColor=white)
+
+### 📊 **SIEM & SOAR Platforms**
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![LogRhythm](https://img.shields.io/badge/LogRhythm-2E8B57?style=for-the-badge&logoColor=white)
+![Rapid7](https://img.shields.io/badge/Rapid7_InsightIDR-FF6900?style=for-the-badge&logoColor=white)
+![Splunk SOAR](https://img.shields.io/badge/Splunk_SOAR-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Cortex XSOAR](https://img.shields.io/badge/Cortex_XSOAR-00C0EF?style=for-the-badge&logoColor=white)
+
+### 🛡️ **EDR Solutions**
+![Palo Alto XDR](https://img.shields.io/badge/Palo_Alto_Cortex_XDR-00C0EF?style=for-the-badge&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike_Falcon-E01E24?style=for-the-badge&logoColor=white)
+
+### 🌐 **Network Security**
+![Palo Alto](https://img.shields.io/badge/Palo_Alto_NGFW-00C0EF?style=for-the-badge&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet_FortiGate-EE3124?style=for-the-badge&logoColor=white)
+
+### 🔒 **Data Loss Prevention**
+![Symantec DLP](https://img.shields.io/badge/Symantec_DLP-FFD700?style=for-the-badge&logoColor=black)
+![Forcepoint DLP](https://img.shields.io/badge/Forcepoint_DLP-0066CC?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -128,6 +154,6 @@ current_focus:
   
   **🔐 Securing the digital world, one threat at a time 🔐**
   
-  ![Snake animation](https://github.com/Achuth07/Achuth07/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achuth07&theme=react-dark&hide_border=true&area=true" width="100%">
   
 </div>
